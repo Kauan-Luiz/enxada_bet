@@ -19,51 +19,15 @@ html {
 
     
 }
-.menu {
-    background-color: #331343;
-    padding: 20px;
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    text-align: center; 
-    
-}
-.logo {
-   color: #63e3a0;
-   font-family: "Outfit", sans-serif;
-   font-optical-sizing: auto;
-   font-weight: 900;
-   font-style: normal;
-   font-size: 30pt
 
-}
+
 
 body {
- 
   margin: 0;
   padding: 0;
   background-color: #333  ;
 }
 
-header {
-    background-color: #1e0f24;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
-}
-
-nav ul {
-    margin: 0;
-    padding: 0;
-}
-nav ul li {
-    display: inline;
-    margin-right: 20px;   
-}
-
-a {
-    text-decoration: none;
-    color: white;
-}
 
 .container {
     
@@ -84,52 +48,11 @@ a {
     height: 200px;   
 }
 
-footer {
-    background-color: #1e0f24;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-   
-    bottom: 0;
-    width: 100%;
-}
 
-.button {
-    display: inline-block;
-    padding: 10px 20px;
-    margin: 10px;
-    background-color: #63e3a0; 
-    color: white; 
-    font-weight: 600;
-    border: none;
-    border-radius: 5px; 
-    text-align: center;
-    text-decoration: none;
-    font-size: 16px;
-    cursor: pointer;
-  }
 
-  .rodape {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 20px;  
-  }
-
-  .bottom {
-    margin-top: 50px;
-  }
-
- li {
+  li {
     list-style-type: none;
  }
 
- .footer_li li  {
- margin-top: 5px;
-
  
- }
 
-.footerlink h4 {
-    margin-left: 30px;
-}
