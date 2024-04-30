@@ -1,1 +1,22 @@
 
+.decoration {
+color:  red;
+}
+
+
+.img_banner {
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+  
+}
+
+.banner {
+    background-color: red;
+    margin-top: 20px;
+    width: 1800px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
